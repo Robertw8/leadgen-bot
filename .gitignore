@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.pycache_local/
+.env
+*.session
+*.session-journal
